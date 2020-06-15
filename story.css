@@ -1,34 +1,73 @@
 @charset "utf-8";
 /* CSS Document */
-.header {
+/*.header_anpassug {
 
-padding-left: 10px;
+  padding-left: 10px;
 
-}
+
+}*/
 
 
 .panel_1 {
 
-  float: right;
-  width: 300px;
-  padding: 10px;
-  width:  49vw;
+  float: left;
+  width: 48vw;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 30px;
 
 }
 
 
 .panel_2 {
 
+  float: right;
+  width:  48vw;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+
+}
+
+
+.w3-container {
+
+  padding-top: 4vh;
+  padding-left: 1.5vw;
+  padding-right: 1.5vw;
+
+}
+
+
+.header {
+
+  padding:0.01em 16px;
+
+  /* Noch bearbeiten kasten für header zu kelin*/
+
+}
+
+
+.w3-container4 {
+
+  padding-top: vh;
   float: left;
-  width: 300px;
-  padding: 10px;
-  width:  49vw;
 
 }
 
+#rcorners1 {
+  border-radius: 25px;
+  /*background: #73AD21;
+  padding: 20px;
+  width: 200px;
+  height: 150px;*/
+}
 
-.purple {
 
+#header {
 
+  position: fixed;
 
 }
+/* Halul hier ist Ende ( U w U )
