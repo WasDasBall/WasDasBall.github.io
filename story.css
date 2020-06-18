@@ -1,14 +1,13 @@
 @charset "utf-8";
-/* CSS Document */
 
+/* CSS Document */
 .font {
 
-  font-family: cooper-black-std,serif;
-/*  font-weight: 400;*/
+  font-family: cooper-black-std, serif;
+  /*  font-weight: 400;*/
   font-style: normal;
 
 }
-
 
 .heading {
 
@@ -16,7 +15,6 @@
   font-size: 3.5vh;
 
 }
-
 
 .panel_1 {
 
@@ -29,18 +27,16 @@
 
 }
 
-
 .panel_2 {
 
   float: right;
-  width:  36vw;
+  width: 36vw;
   padding-top: 10px;
   padding-bottom: 10px;
   padding-left: 30px;
   padding-right: 30px;
 
 }
-
 
 .layer_1 {
 
@@ -50,16 +46,14 @@
 
 }
 
-
 .header {
 
-/*padding:0.001em; */
+  /*padding:0.001em; */
   font-size: 3vh;
-  padding:0.01em 16px;
+  padding: 0.01em 16px;
   /* Noch bearbeiten kasten für header zu kelin*/
 
 }
-
 
 .fixed-header {
 
@@ -68,49 +62,47 @@
 
 }
 
-
 .layer_left {
 
-/* padding-top ändern zum verschieben der Boxen auf der Y-Achse*/
+  /* padding-top ändern zum verschieben der Boxen auf der Y-Achse*/
   padding-top: vh;
   float: left;
   padding-bottom: 12vh;
-/*change padding bottom to chane footer distance to text*/
+  /*change padding bottom to chane footer distance to text*/
 
 }
-
 
 .layer_right {
 
-/* padding-top ändern zum verschieben der Boxen auf der Y-Achse*/
+  /* padding-top ändern zum verschieben der Boxen auf der Y-Achse*/
   padding-top: 20vh;
   float: right;
-/*padding-bottom: 12vh; */
-/*change padding bottom to chane footer distance to text*/
+  /*padding-bottom: 12vh; */
+  /*change padding bottom to chane footer distance to text*/
 
 }
-
 
 .img {
-    max-width:100%;
-    height:auto;
-}
 
+  max-width: 100%;
+  height: auto;
+
+}
 
 .no_padding {
 
- padding: 0px
+  padding: 0px
 
 }
 
-
 #corners {
+
   border-radius: 25px;
   /*background: #73AD21;
   padding: 20px;
   width: 200px;
   height: 150px;*/
-}
 
+}
 
 /* Halul hier ist Ende ( U w U )
